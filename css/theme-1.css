@@ -293,8 +293,8 @@ span.text-white a {
   }
 }
 section {
-  padding-top: 80px;
-  padding-bottom: 80px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   position: relative;
   overflow: hidden;
 }
@@ -2723,8 +2723,8 @@ iframe.mail-list-form {
   display: none !important;
 }
 footer {
-  padding-top: 80px;
-  padding-bottom: 80px;
+  padding-top: 20px;
+  padding-bottom: 10px;
 }
 footer.social h1 {
   margin-bottom: 24px;
